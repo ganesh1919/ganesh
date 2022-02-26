@@ -5,3 +5,5 @@ ls
 touch A01 B02
 ls
 mv A01 swamy
+ls
+mkdir bhargav
